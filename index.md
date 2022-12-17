@@ -6,7 +6,14 @@ Ce blog recense des exemples pratiques de ce principe, avec des entreprises dont
 
 ## Derniers Articles
 
-### [Electrolux : Un Aspirateur Zéro-Terrain](/electrolux-aspi-0terrain)
+### [Electrolux : Aspirateur Zéro-Terrain](/electrolux-aspi-0terrain)
 
-### [AEG/Electrolux : Un Lave-Vaisselle Amnésique](/aeg-lave-vaisselle-3en1)
+### [AEG/Electrolux : Lave-Vaisselle Amnésique](/aeg-lave-vaisselle-3en1)
 
+### [AEG/Electrolux : Bip, Bip, Bip, Incompétence](/aeg-cuisinière)
+
+### [AEG/Electrolux : Four Contondant](/aeg-four)
+
+### [Electrolux : Aspirateur Apathique](/electrolux-aspi-on-off)
+
+### [Electrolux : Boutons d’Aspirateur Pointillieux](/electrolux-aspi-boutons)
