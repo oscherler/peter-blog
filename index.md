@@ -19,3 +19,5 @@ Ce blog recense des exemples pratiques de ce principe, avec des entreprises dont
 ### [Electrolux : Aspirateur Apathique](/electrolux-aspi-on-off)
 
 ### [Electrolux : Boutons d’Aspirateur Pointillieux](/electrolux-aspi-boutons)
+
+### [Solis : Anti-Bouilloire](/solis-anti-bouilloire)
